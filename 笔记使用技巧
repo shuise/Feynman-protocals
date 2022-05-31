@@ -1,0 +1,8 @@
+输入笔记时，三种操作
+1. 通过 #HashTag 的方式打标签
+2. 通过 @username 的方式提醒其他人阅读
+3. 遇到疑难点，使用 ?? 备注
+
+三者的截止规则：以空格，逗号结尾，段末不需要
+
+示范：https://notes.bluetech.top/published/shuise/50aba094199a9f90466bc069efc0e681.html
